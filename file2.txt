@@ -1,2 +1,4 @@
- this is a test of Github - added this on dev2 branch
+ this is a test of Github - added this on dev2 branch.
+
+Another edit
 
